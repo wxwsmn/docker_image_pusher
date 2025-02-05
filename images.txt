@@ -1,6 +1,6 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/amd64 redis:latest
+--platform=linux/amd64 amilys/embyserver:latest
+--platform=linux/amd64 xhofe/alist:latest
+--platform=linux/amd64 	mariadb:latest
+--platform=linux/amd64 ghcr.io/binary-husky/gpt_academic_with_all_capacity:master
+--platform=linux/amd64 xiaoyaliu/alist:latest
