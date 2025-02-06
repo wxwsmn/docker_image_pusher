@@ -26,6 +26,5 @@
 --platform=linux/amd64 soulteary/flare:latest
 --platform=linux/amd64 talebook/talebook:latest
 --platform=linux/amd64 xhofe/alist-aria2:latest
---platform=linux/amd64 mtphotos/mt-photos-ai:cuda-latest
 --platform=linux/amd64 xayane/mt-photos-insightface-unofficial:latest
 --platform=linux/amd64 linuxserver/doublecommander:latest
