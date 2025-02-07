@@ -28,3 +28,5 @@
 --platform=linux/amd64 xhofe/alist-aria2:latest
 --platform=linux/amd64 xayane/mt-photos-insightface-unofficial:latest
 --platform=linux/amd64 linuxserver/doublecommander:latest
+--platform=linux/amd64 ollama/ollama:latest
+--platform=linux/amd64 ollama/ollama:0.5.8-rc10
