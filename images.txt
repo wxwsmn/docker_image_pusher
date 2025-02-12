@@ -32,3 +32,5 @@
 --platform=linux/amd64 ollama/ollama:0.5.8-rc10
 --platform=linux/amd64 ghcr.io/open-webui/open-webui:main
 --platform=linux/amd64 tomsquest/docker-radicale:latest
+--platform=linux/amd64 onething1/wxedge:latest
+--platform=linux/amd64 moelin/1panel:latest
