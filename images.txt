@@ -2,6 +2,11 @@
 --platform=linux/amd64 amilys/embyserver:latest
 --platform=linux/amd64 mariadb:latest
 --platform=linux/amd64 ghcr.io/binary-husky/gpt_academic_with_all_capacity:master
+--platform=linux/amd64 ghcr.io/binary-husky/gpt_academic_nolocal:master
+--platform=linux/amd64 ghcr.io/binary-husky/gpt_academic_chatglm_moss:master
+--platform=linux/amd64 ghcr.io/binary-husky/gpt_academic_jittorllms:master
+--platform=linux/amd64 ghcr.io/binary-husky/gpt_academic_with_latex:master 
+--platform=linux/amd64 ghcr.io/binary-husky/gpt_academic_audio_assistant:master
 --platform=linux/amd64 xiaoyaliu/alist:latest
 --platform=linux/amd64 advplyr/audiobookshelf:latest
 --platform=linux/amd64 amtoaer/bili-sync-rs:latest
