@@ -39,3 +39,4 @@
 --platform=linux/amd64 tomsquest/docker-radicale:latest
 --platform=linux/amd64 onething1/wxedge:latest
 --platform=linux/amd64 moelin/1panel:latest
+--platform=linux/amd64 shuiche/mind-map:latest
