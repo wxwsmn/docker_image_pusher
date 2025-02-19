@@ -41,4 +41,5 @@
 --platform=linux/amd64 moelin/1panel:latest
 --platform=linux/amd64 shuiche/mind-map:latest
 --platform=linux/amd64 qdtoday/qd:latest
---platform=linux/amd64 guovern/iptv-api:latest	
+--platform=linux/amd64 guovern/iptv-api:latest
+--platform=linux/amd64 registry.cn-hangzhou.aliyuncs.com/mtphotos/mt-photos-ai:cuda-latest
