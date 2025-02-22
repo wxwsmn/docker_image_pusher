@@ -43,3 +43,4 @@
 --platform=linux/amd64 qdtoday/qd:latest
 --platform=linux/amd64 guovern/iptv-api:latest
 --platform=linux/amd64 registry.cn-hangzhou.aliyuncs.com/mtphotos/mt-photos-ai:cuda-latest
+--platform=linux/amd64 xjxjin/alist-sync:latest
