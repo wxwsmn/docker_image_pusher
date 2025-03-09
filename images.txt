@@ -30,6 +30,7 @@
 --platform=linux/amd64 rustdesk/rustdesk-server:latest
 --platform=linux/amd64 soulteary/flare:latest
 --platform=linux/amd64 talebook/talebook:latest
+--platform=linux/amd64 talebook/talebook:master
 --platform=linux/amd64 xhofe/alist-aria2:latest
 --platform=linux/amd64 xayane/mt-photos-insightface-unofficial:latest
 --platform=linux/amd64 linuxserver/doublecommander:latest
@@ -45,3 +46,5 @@
 --platform=linux/amd64 registry.cn-hangzhou.aliyuncs.com/mtphotos/mt-photos-ai:cuda-latest
 --platform=linux/amd64 xjxjin/alist-sync:latest
 --platform=linux/amd64 minio/minio:latest
+--platform=linux/amd64 tooandy/navidrome:latest
+--platform=linux/amd64 tooandy/navichina:latest
