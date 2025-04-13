@@ -51,3 +51,6 @@
 --platform=linux/amd64 easychen/cookiecloud:latest
 --platform=linux/amd64 jxxghp/moviepilot-v2:latest
 --platform=linux/amd64 iyuucn/iyuuplus-dev:latest
+--platform=linux/amd64 neosmemo/memos:stable
+--platform=linux/amd64 vaultwarden/server:latest
+--platform=linux/amd64 xhongc/music_tag_web:latest
