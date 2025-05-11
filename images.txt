@@ -39,7 +39,7 @@
 --platform=linux/amd64 tomsquest/docker-radicale:latest
 --platform=linux/amd64 onething1/wxedge:latest
 --platform=linux/amd64 moelin/1panel:latest
---platform=linux/amd64 shuiche/mind-map:latest
+--platform=linux/amd64 shuiche/mind-map
 --platform=linux/amd64 qdtoday/qd:latest
 --platform=linux/amd64 guovern/iptv-api:latest
 --platform=linux/amd64 registry.cn-hangzhou.aliyuncs.com/mtphotos/mt-photos-ai:cuda-latest
