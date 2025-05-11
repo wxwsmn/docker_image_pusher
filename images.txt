@@ -54,3 +54,5 @@
 --platform=linux/amd64 neosmemo/memos:stable
 --platform=linux/amd64 vaultwarden/server:latest
 --platform=linux/amd64 xhongc/music_tag_web:latest
+--platform=linux/amd64 aingdesk/aingdesk:latest
+--platform=linux/amd64 jlesage/handbrake:latest
