@@ -15,7 +15,6 @@
 --platform=linux/amd64 fogforest/yesplaymusic:latest
 --platform=linux/amd64 gdy666/lucky:latest
 --platform=linux/amd64 ghcr.io/cxfksword/douban-api-rs:latest
---platform=linux/amd64 ghcr.io/usememos/memos:latest
 --platform=linux/amd64 hslr/li-calendar:latest
 --platform=linux/amd64 jlesage/firefox:latest
 --platform=linux/amd64 kodcloud/kodbox:latest
