@@ -56,3 +56,4 @@
 --platform=linux/amd64 jlesage/handbrake:latest
 --platform=linux/amd64 shanyanwcx/abs-ximalaya:latest
 --platform=linux/amd64 shuiche/mind-map:latest
+--platform=linux/amd64 openlistteam/openlist:latest
