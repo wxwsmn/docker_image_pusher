@@ -48,6 +48,6 @@
 --platform=linux/amd64 zocker160/handbrake-nvenc:latest
 --platform=linux/amd64 shanyanwcx/abs-ximalaya:latest
 --platform=linux/amd64 shuiche/mind-map:latest
---platform=linux/amd64 openlistteam/openlist:latest
+--platform=linux/amd64 openlistteam/openlist:latest-aio
 --platform=linux/amd64 kodcloud/kodoffice:latest
 --platform=linux/amd64 garethgeorge/backrest:latest
