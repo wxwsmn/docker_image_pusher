@@ -51,3 +51,4 @@
 --platform=linux/amd64 openlistteam/openlist:latest-aio
 --platform=linux/amd64 kodcloud/kodoffice:latest
 --platform=linux/amd64 garethgeorge/backrest:latest
+
