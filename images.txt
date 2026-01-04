@@ -13,6 +13,7 @@
 --platform=linux/amd64 b3log/siyuan:latest
 --platform=linux/amd64 dnomd343/kms-server:latest
 --platform=linux/amd64 gdy666/lucky:latest
+--platform=linux/amd64 gdy666/lucky:v2
 --platform=linux/amd64 ghcr.io/cxfksword/douban-api-rs:latest
 --platform=linux/amd64 jlesage/firefox:latest
 --platform=linux/amd64 kodcloud/kodbox:latest
